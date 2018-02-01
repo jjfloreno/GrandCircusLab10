@@ -1,0 +1,7 @@
+c:\users\jjflo\source\repos\Lab10_Movies\Lab10_Movies\bin\Debug\Lab10_Movies.exe.config
+c:\users\jjflo\source\repos\Lab10_Movies\Lab10_Movies\bin\Debug\Lab10_Movies.exe
+c:\users\jjflo\source\repos\Lab10_Movies\Lab10_Movies\bin\Debug\Lab10_Movies.pdb
+c:\users\jjflo\source\repos\Lab10_Movies\Lab10_Movies\obj\Debug\Lab10_Movies.csprojResolveAssemblyReference.cache
+c:\users\jjflo\source\repos\Lab10_Movies\Lab10_Movies\obj\Debug\Lab10_Movies.csproj.CoreCompileInputs.cache
+c:\users\jjflo\source\repos\Lab10_Movies\Lab10_Movies\obj\Debug\Lab10_Movies.exe
+c:\users\jjflo\source\repos\Lab10_Movies\Lab10_Movies\obj\Debug\Lab10_Movies.pdb
