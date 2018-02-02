@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Text.RegularExpressions;
+using System.Collections;
 
 namespace Lab10_Movies
 {
-    class Validation
+    public class Validation
     {
         public static bool Category(string input)
         {

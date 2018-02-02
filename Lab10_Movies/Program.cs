@@ -62,17 +62,9 @@ namespace Lab10_Movies
 
                 //ouput movies
                 ArrayList MovieOut = new ArrayList();
-                foreach (Movie m in MovieList)
-                {
-                    if (m.CatNum == int.Parse(CatChoice))
-                    {
-                        MovieOut.Add(m.Title); //add movies in selected category to new array
-                    }
-                }
+                Movie.ReturnMovies(CatChoice, MovieList, MovieOut);
 
-                MovieOut.Sort(); //sort list of selected movies
-
-                foreach(string title in MovieOut) //print list of selected movies (they are now in alpha order)
+                foreach (string title in MovieOut) //print list of selected movies (they are now in alpha order)
                 {
                     Console.WriteLine(title);
                 }
@@ -100,5 +92,6 @@ namespace Lab10_Movies
                 }
             }
         }
+        
     }
 }

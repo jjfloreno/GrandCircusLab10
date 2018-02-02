@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Collections;
 
 namespace Lab10_Movies
 {
-    class Movie
+    public class Movie
     {
         //fields
         private string title;
@@ -37,6 +38,20 @@ namespace Lab10_Movies
             Title = title;
             Category = category;
             CatNum = number;
+        }
+
+        //methods
+        public static void ReturnMovies(string CatChoice, Movie[] MovieList, ArrayList MovieOut)
+        {
+            foreach (Movie m in MovieList)
+            {
+                if (m.CatNum == int.Parse(CatChoice)) //input string is already validated, so the parse will not create an exception
+                {
+                    MovieOut.Add(m.Title); //add movies in selected category to new array
+                }
+            }
+
+            MovieOut.Sort(); //sort list of returned movies
         }
     }
 }

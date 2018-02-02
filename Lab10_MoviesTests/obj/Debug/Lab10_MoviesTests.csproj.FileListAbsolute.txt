@@ -1,0 +1,16 @@
+C:\Users\jjflo\source\repos\Lab10_Movies\Lab10_MoviesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jjflo\source\repos\Lab10_Movies\Lab10_MoviesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jjflo\source\repos\Lab10_Movies\Lab10_MoviesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jjflo\source\repos\Lab10_Movies\Lab10_MoviesTests\bin\Debug\Lab10_MoviesTests.dll
+C:\Users\jjflo\source\repos\Lab10_Movies\Lab10_MoviesTests\bin\Debug\Lab10_MoviesTests.pdb
+C:\Users\jjflo\source\repos\Lab10_Movies\Lab10_MoviesTests\bin\Debug\Lab10_Movies.exe
+C:\Users\jjflo\source\repos\Lab10_Movies\Lab10_MoviesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jjflo\source\repos\Lab10_Movies\Lab10_MoviesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jjflo\source\repos\Lab10_Movies\Lab10_MoviesTests\bin\Debug\Lab10_Movies.pdb
+C:\Users\jjflo\source\repos\Lab10_Movies\Lab10_MoviesTests\bin\Debug\Lab10_Movies.exe.config
+C:\Users\jjflo\source\repos\Lab10_Movies\Lab10_MoviesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jjflo\source\repos\Lab10_Movies\Lab10_MoviesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jjflo\source\repos\Lab10_Movies\Lab10_MoviesTests\obj\Debug\Lab10_MoviesTests.csprojResolveAssemblyReference.cache
+C:\Users\jjflo\source\repos\Lab10_Movies\Lab10_MoviesTests\obj\Debug\Lab10_MoviesTests.csproj.CoreCompileInputs.cache
+C:\Users\jjflo\source\repos\Lab10_Movies\Lab10_MoviesTests\obj\Debug\Lab10_MoviesTests.dll
+C:\Users\jjflo\source\repos\Lab10_Movies\Lab10_MoviesTests\obj\Debug\Lab10_MoviesTests.pdb
