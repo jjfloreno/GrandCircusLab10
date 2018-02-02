@@ -11,6 +11,7 @@ namespace Lab10_Movies
         //fields
         private string title;
         private string category;
+        private int catnum;
 
         //properties
         public string Title
@@ -25,10 +26,17 @@ namespace Lab10_Movies
             get { return category; }
         }
 
-        public Movie(string title, string category)
+        public int CatNum
+        {
+            set { catnum = value; }
+            get { return catnum; }
+        }
+
+        public Movie(string title, string category, int number)
         {
             Title = title;
             Category = category;
+            CatNum = number;
         }
     }
 }
